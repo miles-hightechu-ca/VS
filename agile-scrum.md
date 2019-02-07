@@ -8,5 +8,5 @@ Because others do, and if I don't know how to use it then that wouldn't be very 
 
 1. [Upload](https://help.github.com/articles/adding-a-file-to-a-repository/) your [iStar Profile](https://www.playprelude.com) Screenshot to this repository.
 2. Display the [image](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) in this file.
-![alt text](https://media.discordapp.net/attachments/508332583218708483/542903522262253578/Screen_Shot_2019-01-28_at_1.19.45_PM.png "IStar")
+![alt text](Screen Shot 2019-01-28 at 1.19.45 PM.png "IStar")
 
