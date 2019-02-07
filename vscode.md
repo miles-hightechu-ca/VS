@@ -2,8 +2,8 @@
 
 ## Why would you want to use a text editor?
 
-[Erase me and write your response here!]
+To fix mistakes, or add something that might have been omitted previously, or even to complete an assignment that asks you why you would want to use a text editor.
 
 ## What other text editors are out there?
 
-[Erase me and write your response here!]
+Notepad, Notepad+, Notepad++, photoshop
