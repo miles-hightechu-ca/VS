@@ -2,8 +2,8 @@
 
 ## Why would you want to use a text editor?
 
-[Erase me and write your response here!]
+Text editors are very light weight and once the code is all written can preform efficiently. 
 
 ## What other text editors are out there?
 
-[Erase me and write your response here!]
+Notepad++, Sublime Text and Atom.
