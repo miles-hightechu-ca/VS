@@ -10,5 +10,5 @@ Agile is a very flexible, yet productive work method. Sometimes things come up a
 2. Display the [image](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) in this file.
 
 
-        VS/Capture.PNG
+      [logo]:(https://raw.githubusercontent.com/miles-hightechu-ca/VS/master/Capture.PNG"Logo Title Text 2"
       
