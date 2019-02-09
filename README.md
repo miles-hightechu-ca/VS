@@ -16,11 +16,11 @@ This assignment can be completely done with Github's online interface. However, 
 
 ### VS Code
 
-- [ ] Edit this [file](https://github.com/hightechu/hightechu-spring2019-assignment1/blob/master/vscode.md) and answer the questions.
+- [ ] Edit this [file](https://github.com/miles-hightechu-ca/VS/blob/master/vscode.md) and answer the questions.
 
 ### Agile / Scrum
 
-- [ ] Edit this [file](https://github.com/hightechu/hightechu-spring2019-assignment1/blob/master/agile-scrum.md) and answer the questions.
+- [ ] Edit this [file](https://github.com/miles-hightechu-ca/VS/blob/master/agile-scrum.md) and answer the questions.
 
 ## References
 
